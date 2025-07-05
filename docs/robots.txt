@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap
+Sitemap: https://lucky-ticket-blitz.com/sitemap.xml
+Allow: /
+
+User-agent: *
+Allow: /
